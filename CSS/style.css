@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/*Design för body för alla sidor*/
+html{
+  font-size: 16px;
+}
+body{
+  max-width:600px;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(224, 224, 207);
+}
